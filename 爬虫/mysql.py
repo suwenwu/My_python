@@ -56,5 +56,9 @@ def main():
     print(result)
 
 
+def selectAll():
+    pass
+
+
 if __name__ == '__main__':
     main()
