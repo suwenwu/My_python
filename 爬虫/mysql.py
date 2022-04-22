@@ -1,6 +1,7 @@
 import pymysql
 
 
+# mysql数据库类
 class DBUtil(object):
     __db = None
     __config = {
